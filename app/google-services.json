@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970418697637",
+    "project_id": "prankster-dee14",
+    "storage_bucket": "prankster-dee14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970418697637:android:f8f062a6332cb0d165a44c",
+        "android_client_info": {
+          "package_name": "com.example.prankster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970418697637-k7jbujd2r0sldtct5irbhsgbpfhtn0i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4PO1TBSloXAmRxO8eUaRZX7yR30D0-ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970418697637-k7jbujd2r0sldtct5irbhsgbpfhtn0i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
